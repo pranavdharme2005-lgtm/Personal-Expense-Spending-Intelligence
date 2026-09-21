@@ -136,7 +136,7 @@ Personal-Expense-Spending-Intelligence/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/pranav/Personal-Expense-Spending-Intelligence.git
+   git clone https://github.com/pranavdharme2005-lgtm/Personal-Expense-Spending-Intelligence.git
    cd Personal-Expense-Spending-Intelligence
    ```
 
