@@ -11,8 +11,8 @@ Date,Category,Description,Amount,Payment_Method,Merchant
 2024-01-03,Transportation,Uber Ride,2218.59,Upi / Net Banking,Uber Store
 2024-01-04,Groceries,Walmart Supercenter,4092.73,Credit Card,Walmart Store
 2024-01-04,Food & Dining,Starbucks Coffee,2171.28,Debit Card,Starbucks Store
-2024-01-04,Food & Dining,,2278.35,Credit Card,Subway Store
-2024-01-05,Entertainment,Fiber Internet & Streaming Subscription,5663.92,Credit Card,NetSpeed Telecom
+2024-01-04,Food & Dining,No Description,2278.35,Credit Card,Subway Store
+2024-01-05,Entertainment,Fiber Internet & Streaming Subscription,5663.92,Credit Card,Netspeed Telecom
 2024-01-05,Food & Dining,Local Diner Dinner,3249.45,Cash,Local Store
 2024-01-05,Food & Dining,Chipotle Bowl,2981.36,Debit Card,Chipotle Store
 2024-01-05,Food & Dining,Subway Lunch,1519.73,Credit Card,Subway Store
@@ -28,7 +28,7 @@ Date,Category,Description,Amount,Payment_Method,Merchant
 2024-01-07,Groceries,Whole Foods Market,13302.41,Debit Card,Whole Store
 2024-01-08,Groceries,Trader Joes Groceries,5093.71,Upi / Net Banking,Trader Store
 2024-01-08,Food & Dining,Subway Lunch,1241.68,Debit Card,Subway Store
-2024-01-08,Healthcare,CVS Pharmacy Medicines,6791.06,Cash,CVS Store
+2024-01-08,Healthcare,CVS Pharmacy Medicines,6791.06,Cash,Cvs Store
 2024-01-09,Food & Dining,Subway Lunch,3234.51,Credit Card,Subway Store
 2024-01-09,Food & Dining,Starbucks Coffee,1736.36,Cash,Starbucks Store
 2024-01-10,Transportation,Metro Monthly Pass,1483.21,Debit Card,Metro Store
@@ -44,7 +44,7 @@ Date,Category,Description,Amount,Payment_Method,Merchant
 2024-01-14,Food & Dining,Starbucks Coffee,2327.32,Credit Card,Starbucks Store
 2024-01-15,Utilities,Electric & Water Utility Bill,11033.19,Credit Card,City Power & Water
 2024-01-15,Food & Dining,Starbucks Coffee,2928.24,Cash,Starbucks Store
-2024-01-17,Food & Dining,Subway Lunch,2784.65,,Subway Store
+2024-01-17,Food & Dining,Subway Lunch,2784.65,Unspecified,Subway Store
 2024-01-17,Transportation,Gas Station Refill,1355.39,Debit Card,Gas Store
 2024-01-20,Transportation,Metro Monthly Pass,4322.64,Upi / Net Banking,Metro Store
 2024-01-20,Groceries,Trader Joes Groceries,3362.33,Upi / Net Banking,Trader Store
@@ -74,12 +74,11 @@ Date,Category,Description,Amount,Payment_Method,Merchant
 2024-02-01,Housing & Rent,Monthly Apartment Rent,111060.64,Upi / Net Banking,Oakridge Apartments
 2024-02-03,Food & Dining,Chipotle Bowl,3349.88,Credit Card,Chipotle Store
 2024-02-03,Food & Dining,Starbucks Coffee,1908.17,Debit Card,Starbucks Store
-2024-02-04,Groceries,Walmart Supercenter,-3735.0,Upi / Net Banking,Walmart Store
 2024-02-04,Shopping,Home Depot Tools,12199.34,Debit Card,Home Store
 2024-02-04,Groceries,Trader Joes Groceries,4996.6,Upi / Net Banking,Trader Store
 2024-02-04,Food & Dining,Starbucks Coffee,2677.58,Credit Card,Starbucks Store
 2024-02-05,Food & Dining,Bakery Snacks,1957.97,Debit Card,Bakery Store
-2024-02-05,Entertainment,Fiber Internet & Streaming Subscription,5297.89,Credit Card,NetSpeed Telecom
+2024-02-05,Entertainment,Fiber Internet & Streaming Subscription,5297.89,Credit Card,Netspeed Telecom
 2024-02-05,Transportation,Uber Ride,1298.95,Cash,Uber Store
 2024-02-05,Groceries,Target Groceries,10403.22,Upi / Net Banking,Target Store
 2024-02-05,Transportation,Uber Ride,1767.07,Upi / Net Banking,Uber Store
@@ -97,7 +96,7 @@ Date,Category,Description,Amount,Payment_Method,Merchant
 2024-02-09,Groceries,Walmart Supercenter,9305.96,Upi / Net Banking,Walmart Store
 2024-02-10,Food & Dining,Bakery Snacks,3127.44,Credit Card,Bakery Store
 2024-02-10,Groceries,Trader Joes Groceries,4037.12,Credit Card,Trader Store
-2024-02-10,Healthcare,CVS Pharmacy Medicines,2236.85,Cash,CVS Store
+2024-02-10,Healthcare,CVS Pharmacy Medicines,2236.85,Cash,Cvs Store
 2024-02-11,Transportation,Uber Ride,5202.44,Credit Card,Uber Store
 2024-02-11,Food & Dining,Subway Lunch,840.79,Upi / Net Banking,Subway Store
 2024-02-11,Shopping,Bookstore Purchase,9169.01,Debit Card,Bookstore Store
@@ -119,7 +118,7 @@ Date,Category,Description,Amount,Payment_Method,Merchant
 2024-02-18,Food & Dining,Starbucks Coffee,3718.4,Debit Card,Starbucks Store
 2024-02-18,Food & Dining,Starbucks Coffee,1616.01,Debit Card,Starbucks Store
 2024-02-18,Transportation,Uber Ride,3011.24,Credit Card,Uber Store
-2024-02-19,Shopping,,7286.57,Credit Card,Amazon Store
+2024-02-19,Shopping,No Description,7286.57,Credit Card,Amazon Store
 2024-02-20,Food & Dining,Starbucks Coffee,3579.79,Cash,Starbucks Store
 2024-02-20,Food & Dining,Bakery Snacks,984.38,Credit Card,Bakery Store
 2024-02-20,Groceries,Whole Foods Market,5195.8,Credit Card,Whole Store
@@ -148,13 +147,13 @@ Date,Category,Description,Amount,Payment_Method,Merchant
 2024-03-01,Food & Dining,Subway Lunch,1351.24,Credit Card,Subway Store
 2024-03-02,Food & Dining,Bakery Snacks,2905.0,Cash,Bakery Store
 2024-03-02,Food & Dining,Starbucks Coffee,2870.14,Upi / Net Banking,Starbucks Store
-2024-03-02,Healthcare,CVS Pharmacy Medicines,3128.27,Credit Card,CVS Store
+2024-03-02,Healthcare,CVS Pharmacy Medicines,3128.27,Credit Card,Cvs Store
 2024-03-03,Shopping,Emergency Laptop Replacement,153550.0,Credit Card,Amazon Store
 2024-03-03,Food & Dining,Starbucks Coffee,1629.29,Cash,Starbucks Store
 2024-03-03,Food & Dining,Starbucks Coffee,3642.87,Upi / Net Banking,Starbucks Store
 2024-03-04,Travel,Weekend Hotel Stay,22949.5,Upi / Net Banking,Weekend Store
 2024-03-05,Groceries,Target Groceries,9991.54,Upi / Net Banking,Target Store
-2024-03-05,Entertainment,Fiber Internet & Streaming Subscription,5199.95,Credit Card,NetSpeed Telecom
+2024-03-05,Entertainment,Fiber Internet & Streaming Subscription,5199.95,Credit Card,Netspeed Telecom
 2024-03-05,Food & Dining,Starbucks Coffee,2664.3,Upi / Net Banking,Starbucks Store
 2024-03-06,Shopping,Home Depot Tools,9065.26,Upi / Net Banking,Home Store
 2024-03-06,Transportation,Uber Ride,1381.95,Upi / Net Banking,Uber Store
@@ -171,7 +170,7 @@ Date,Category,Description,Amount,Payment_Method,Merchant
 2024-03-10,Transportation,Metro Monthly Pass,2037.65,Cash,Metro Store
 2024-03-11,Transportation,City Parking Meter,3240.32,Upi / Net Banking,City Store
 2024-03-13,Groceries,Target Groceries,7168.71,Debit Card,Target Store
-2024-03-13,Healthcare,CVS Pharmacy Medicines,8754.84,Debit Card,CVS Store
+2024-03-13,Healthcare,CVS Pharmacy Medicines,8754.84,Debit Card,Cvs Store
 2024-03-13,Food & Dining,Starbucks Coffee,1866.67,Cash,Starbucks Store
 2024-03-15,Food & Dining,Bakery Snacks,784.35,Credit Card,Bakery Store
 2024-03-15,Utilities,Electric & Water Utility Bill,12160.33,Credit Card,City Power & Water
@@ -223,7 +222,7 @@ Date,Category,Description,Amount,Payment_Method,Merchant
 2024-04-02,Shopping,Amazon Electronics,6861.61,Debit Card,Amazon Store
 2024-04-03,Food & Dining,Local Diner Dinner,1202.67,Cash,Local Store
 2024-04-04,Food & Dining,Chipotle Bowl,1090.62,Cash,Chipotle Store
-2024-04-05,Entertainment,Fiber Internet & Streaming Subscription,5201.61,Credit Card,NetSpeed Telecom
+2024-04-05,Entertainment,Fiber Internet & Streaming Subscription,5201.61,Credit Card,Netspeed Telecom
 2024-04-05,Food & Dining,Bakery Snacks,1396.89,Upi / Net Banking,Bakery Store
 2024-04-05,Groceries,Walmart Supercenter,8002.03,Credit Card,Walmart Store
 2024-04-05,Food & Dining,Starbucks Coffee,2691.69,Credit Card,Starbucks Store
@@ -258,7 +257,7 @@ Date,Category,Description,Amount,Payment_Method,Merchant
 2024-04-17,Shopping,Home Depot Tools,10764.27,Upi / Net Banking,Home Store
 2024-04-17,Food & Dining,Subway Lunch,738.7,Debit Card,Subway Store
 2024-04-18,Transportation,City Parking Meter,4448.8,Debit Card,City Store
-2024-04-18,Healthcare,CVS Pharmacy Medicines,3940.84,Credit Card,CVS Store
+2024-04-18,Healthcare,CVS Pharmacy Medicines,3940.84,Credit Card,Cvs Store
 2024-04-18,Travel,Flight Ticket Deposit,12080.65,Credit Card,Flight Store
 2024-04-19,Transportation,City Parking Meter,4359.99,Credit Card,City Store
 2024-04-20,Food & Dining,Local Diner Dinner,2485.02,Cash,Local Store
@@ -307,7 +306,7 @@ Date,Category,Description,Amount,Payment_Method,Merchant
 2024-05-05,Food & Dining,Local Diner Dinner,1380.29,Credit Card,Local Store
 2024-05-05,Food & Dining,Subway Lunch,2294.12,Debit Card,Subway Store
 2024-05-05,Travel,Flight Ticket Deposit,16197.45,Upi / Net Banking,Flight Store
-2024-05-05,Entertainment,Fiber Internet & Streaming Subscription,4679.54,Credit Card,NetSpeed Telecom
+2024-05-05,Entertainment,Fiber Internet & Streaming Subscription,4679.54,Credit Card,Netspeed Telecom
 2024-05-05,Travel,Weekend Hotel Stay,18479.12,Upi / Net Banking,Weekend Store
 2024-05-06,Groceries,Walmart Supercenter,4810.68,Debit Card,Walmart Store
 2024-05-06,Food & Dining,Starbucks Coffee,2778.01,Credit Card,Starbucks Store
@@ -338,7 +337,7 @@ Date,Category,Description,Amount,Payment_Method,Merchant
 2024-05-18,Transportation,City Parking Meter,4403.98,Upi / Net Banking,City Store
 2024-05-19,Food & Dining,Chipotle Bowl,3581.45,Credit Card,Chipotle Store
 2024-05-20,Transportation,Metro Monthly Pass,3222.89,Debit Card,Metro Store
-2024-05-20,Healthcare,CVS Pharmacy Medicines,1293.14,Debit Card,CVS Store
+2024-05-20,Healthcare,CVS Pharmacy Medicines,1293.14,Debit Card,Cvs Store
 2024-05-21,Transportation,Uber Ride,3171.43,Credit Card,Uber Store
 2024-05-21,Shopping,Home Depot Tools,2460.95,Credit Card,Home Store
 2024-05-21,Shopping,Bookstore Purchase,5777.63,Debit Card,Bookstore Store
@@ -380,11 +379,11 @@ Date,Category,Description,Amount,Payment_Method,Merchant
 2024-06-04,Groceries,Whole Foods Market,9655.39,Debit Card,Whole Store
 2024-06-04,Transportation,Gas Station Refill,2163.81,Upi / Net Banking,Gas Store
 2024-06-04,Healthcare,Vision Clinic Eyeglasses,7862.59,Cash,Vision Store
-2024-06-05,Entertainment,Fiber Internet & Streaming Subscription,5525.31,Credit Card,NetSpeed Telecom
+2024-06-05,Entertainment,Fiber Internet & Streaming Subscription,5525.31,Credit Card,Netspeed Telecom
 2024-06-05,Food & Dining,Starbucks Coffee,1620.99,Credit Card,Starbucks Store
 2024-06-05,Shopping,Home Depot Tools,4222.21,Upi / Net Banking,Home Store
 2024-06-06,Groceries,Trader Joes Groceries,7552.17,Credit Card,Trader Store
-2024-06-06,Healthcare,CVS Pharmacy Medicines,8475.13,Credit Card,CVS Store
+2024-06-06,Healthcare,CVS Pharmacy Medicines,8475.13,Credit Card,Cvs Store
 2024-06-06,Groceries,Whole Foods Market,4773.33,Debit Card,Whole Store
 2024-06-06,Transportation,Gas Station Refill,4540.93,Cash,Gas Store
 2024-06-06,Shopping,Amazon Electronics,5145.17,Debit Card,Amazon Store
@@ -454,7 +453,7 @@ Date,Category,Description,Amount,Payment_Method,Merchant
 2024-07-01,Housing & Rent,Monthly Apartment Rent,106015.9,Upi / Net Banking,Oakridge Apartments
 2024-07-04,Groceries,Trader Joes Groceries,7078.24,Upi / Net Banking,Trader Store
 2024-07-05,Food & Dining,Chipotle Bowl,3578.96,Upi / Net Banking,Chipotle Store
-2024-07-05,Entertainment,Fiber Internet & Streaming Subscription,6003.39,Credit Card,NetSpeed Telecom
+2024-07-05,Entertainment,Fiber Internet & Streaming Subscription,6003.39,Credit Card,Netspeed Telecom
 2024-07-05,Food & Dining,Chipotle Bowl,2854.37,Upi / Net Banking,Chipotle Store
 2024-07-05,Food & Dining,Starbucks Coffee,3662.79,Cash,Starbucks Store
 2024-07-06,Transportation,Metro Monthly Pass,2994.64,Cash,Metro Store
@@ -535,7 +534,7 @@ Date,Category,Description,Amount,Payment_Method,Merchant
 2024-08-04,Food & Dining,Bakery Snacks,2977.21,Debit Card,Bakery Store
 2024-08-05,Food & Dining,Subway Lunch,2173.77,Upi / Net Banking,Subway Store
 2024-08-05,Food & Dining,Bakery Snacks,1091.45,Debit Card,Bakery Store
-2024-08-05,Entertainment,Fiber Internet & Streaming Subscription,4804.04,Credit Card,NetSpeed Telecom
+2024-08-05,Entertainment,Fiber Internet & Streaming Subscription,4804.04,Credit Card,Netspeed Telecom
 2024-08-06,Transportation,Metro Monthly Pass,4022.18,Cash,Metro Store
 2024-08-07,Food & Dining,Bakery Snacks,3656.15,Cash,Bakery Store
 2024-08-07,Food & Dining,Bakery Snacks,1073.19,Upi / Net Banking,Bakery Store
@@ -575,7 +574,7 @@ Date,Category,Description,Amount,Payment_Method,Merchant
 2024-08-19,Transportation,Uber Ride,4625.59,Upi / Net Banking,Uber Store
 2024-08-20,Groceries,Walmart Supercenter,4251.26,Debit Card,Walmart Store
 2024-08-20,Groceries,Target Groceries,12667.46,Upi / Net Banking,Target Store
-2024-08-20,Healthcare,CVS Pharmacy Medicines,8362.25,Credit Card,CVS Store
+2024-08-20,Healthcare,CVS Pharmacy Medicines,8362.25,Credit Card,Cvs Store
 2024-08-20,Food & Dining,Starbucks Coffee,2800.42,Upi / Net Banking,Starbucks Store
 2024-08-20,Food & Dining,Bakery Snacks,3515.05,Credit Card,Bakery Store
 2024-08-20,Food & Dining,Local Diner Dinner,1297.29,Debit Card,Local Store
@@ -601,7 +600,7 @@ Date,Category,Description,Amount,Payment_Method,Merchant
 2024-09-02,Transportation,Gas Station Refill,2138.91,Debit Card,Gas Store
 2024-09-04,Transportation,Metro Monthly Pass,5233.98,Upi / Net Banking,Metro Store
 2024-09-05,Transportation,Uber Ride,3238.66,Upi / Net Banking,Uber Store
-2024-09-05,Entertainment,Fiber Internet & Streaming Subscription,4917.75,Credit Card,NetSpeed Telecom
+2024-09-05,Entertainment,Fiber Internet & Streaming Subscription,4917.75,Credit Card,Netspeed Telecom
 2024-09-06,Food & Dining,Chipotle Bowl,2209.46,Credit Card,Chipotle Store
 2024-09-07,Food & Dining,Starbucks Coffee,2475.89,Upi / Net Banking,Starbucks Store
 2024-09-08,Food & Dining,Chipotle Bowl,3050.25,Debit Card,Chipotle Store
@@ -666,8 +665,8 @@ Date,Category,Description,Amount,Payment_Method,Merchant
 2024-10-03,Shopping,Bookstore Purchase,10572.54,Debit Card,Bookstore Store
 2024-10-04,Transportation,City Parking Meter,2055.08,Credit Card,City Store
 2024-10-04,Travel,Weekend Hotel Stay,11373.49,Credit Card,Weekend Store
-2024-10-05,Healthcare,CVS Pharmacy Medicines,1832.64,Credit Card,CVS Store
-2024-10-05,Entertainment,Fiber Internet & Streaming Subscription,5273.82,Credit Card,NetSpeed Telecom
+2024-10-05,Healthcare,CVS Pharmacy Medicines,1832.64,Credit Card,Cvs Store
+2024-10-05,Entertainment,Fiber Internet & Streaming Subscription,5273.82,Credit Card,Netspeed Telecom
 2024-10-06,Food & Dining,Starbucks Coffee,3330.79,Cash,Starbucks Store
 2024-10-06,Food & Dining,Subway Lunch,3627.93,Cash,Subway Store
 2024-10-06,Transportation,Uber Ride,1026.71,Credit Card,Uber Store
@@ -702,7 +701,7 @@ Date,Category,Description,Amount,Payment_Method,Merchant
 2024-10-15,Shopping,Bookstore Purchase,9637.13,Debit Card,Bookstore Store
 2024-10-15,Food & Dining,Local Diner Dinner,2414.47,Debit Card,Local Store
 2024-10-16,Transportation,City Parking Meter,4933.52,Cash,City Store
-2024-10-17,Healthcare,CVS Pharmacy Medicines,5378.4,Credit Card,CVS Store
+2024-10-17,Healthcare,CVS Pharmacy Medicines,5378.4,Credit Card,Cvs Store
 2024-10-18,Food & Dining,Chipotle Bowl,1417.64,Credit Card,Chipotle Store
 2024-10-18,Transportation,Uber Ride,1996.15,Credit Card,Uber Store
 2024-10-19,Food & Dining,Chipotle Bowl,1708.14,Upi / Net Banking,Chipotle Store
@@ -743,7 +742,7 @@ Date,Category,Description,Amount,Payment_Method,Merchant
 2024-11-04,Food & Dining,Starbucks Coffee,1295.63,Credit Card,Starbucks Store
 2024-11-04,Food & Dining,Chipotle Bowl,2331.47,Debit Card,Chipotle Store
 2024-11-05,Food & Dining,Chipotle Bowl,1230.06,Credit Card,Chipotle Store
-2024-11-05,Entertainment,Fiber Internet & Streaming Subscription,5389.19,Credit Card,NetSpeed Telecom
+2024-11-05,Entertainment,Fiber Internet & Streaming Subscription,5389.19,Credit Card,Netspeed Telecom
 2024-11-05,Groceries,Whole Foods Market,2972.23,Upi / Net Banking,Whole Store
 2024-11-06,Transportation,Gas Station Refill,5040.59,Upi / Net Banking,Gas Store
 2024-11-07,Food & Dining,Starbucks Coffee,1350.41,Debit Card,Starbucks Store
@@ -803,7 +802,7 @@ Date,Category,Description,Amount,Payment_Method,Merchant
 2024-12-04,Food & Dining,Chipotle Bowl,2610.35,Debit Card,Chipotle Store
 2024-12-05,Food & Dining,Bakery Snacks,3673.58,Credit Card,Bakery Store
 2024-12-05,Food & Dining,Chipotle Bowl,1660.0,Upi / Net Banking,Chipotle Store
-2024-12-05,Entertainment,Fiber Internet & Streaming Subscription,4888.7,Credit Card,NetSpeed Telecom
+2024-12-05,Entertainment,Fiber Internet & Streaming Subscription,4888.7,Credit Card,Netspeed Telecom
 2024-12-07,Food & Dining,Starbucks Coffee,778.54,Debit Card,Starbucks Store
 2024-12-07,Food & Dining,Chipotle Bowl,2094.09,Upi / Net Banking,Chipotle Store
 2024-12-08,Shopping,Bookstore Purchase,8596.31,Debit Card,Bookstore Store
@@ -860,5 +859,3 @@ Date,Category,Description,Amount,Payment_Method,Merchant
 2024-12-31,Food & Dining,Subway Lunch,2155.51,Upi / Net Banking,Subway Store
 2024-12-31,Shopping,Clothing Purchase,10905.37,Credit Card,Clothing Store
 2024-12-31,Food & Dining,Subway Lunch,1918.96,Upi / Net Banking,Subway Store
-2024-01-21,Groceries,Whole Foods Market,7782.08,Upi / Net Banking,Whole Store
-2024-03-27,Groceries,Trader Joes Groceries,5665.58,Debit Card,Trader Store
